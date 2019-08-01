@@ -1,0 +1,4 @@
+#Thu Aug 01 12:15:54 CDT 2019
+base.0=/Users/andresvazquez/Desktop/VuforiaSDK/samples/VuforiaAndroid-8-3-8/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex

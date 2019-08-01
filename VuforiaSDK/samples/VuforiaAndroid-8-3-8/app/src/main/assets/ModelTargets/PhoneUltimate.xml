@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="PhoneUltimate"/>
+
+</Tracking>
+
+<Assembly name="PhoneUltimates_assembly" assemblyId="f3148d1563ef477c9c4c980dd122932b">
+<Part name="PhoneUltimate" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.007 0.0107902 0.0799285" rotation="AD: -0.9348058668068747 -0.5955370173710307 0.934805866806875 135.342">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="-0.0109702 0.00269409 0.0837038" rotation="AD: -0.4587545556260579 -1.0907250055416544 1.7120953098001295 164.013">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0002" translation="-0.00521907 -0.00447015 0.0870446" rotation="AD: 0.4587545556260573 -1.0907250055416549 1.7120953098001308 195.987">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0003" translation="0.00450233 -0.00353826 0.08661" rotation="AD: 0.9348058668068747 -0.5955370173710307 0.9348058668068754 224.658">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0004" translation="0.00847256 0.00455786 0.0828347" rotation="AD: -0.9993064968171107 0.1705840792045943 -0.2677633688133195 117.471">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0005" translation="0.0027214 0.0117221 0.079494" rotation="AD: -0.9993064968171107 -0.170584079204594 0.2677633688133189 117.471">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

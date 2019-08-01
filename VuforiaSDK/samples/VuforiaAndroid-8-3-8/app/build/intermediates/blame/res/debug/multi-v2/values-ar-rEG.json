@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/andresvazquez/Desktop/VuforiaSDK/samples/VuforiaAndroid-8-3-8/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar-rEG/values-ar-rEG.xml",
+            "map": [
+                {
+                    "source": "/Users/andresvazquez/.gradle/caches/transforms-2/files-2.1/484c755bfeb5a8b4f9395f5dc95a9d8f/res/values-ar-rEG/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,240,289,374,462",
+                        "endColumns": "45,48,84,87,62",
+                        "endOffsets": "239,288,373,461,524"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,158,247,339",
+                        "endColumns": "49,52,88,91,66",
+                        "endOffsets": "100,153,242,334,401"
+                    }
+                }
+            ]
+        }
+    ]
+}

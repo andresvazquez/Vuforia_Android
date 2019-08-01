@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ede67bd3-c868-4dad-bea9-1a347835ae1c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="VuforiaSamples-8-3-8" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/DEVELOPMENT_ROOT/Android/vuforia-sdk-android-8-3-8/samples/VuforiaSamples-8-3-8/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="29" column="58" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/proguard-rules.pro">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1755">
+              <caret line="117" column="93" selection-start-line="117" selection-start-column="93" selection-end-line="117" selection-end-column="93" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/CoreSamples/app/ModelTargets/ModelTargetRenderer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/CoreSamples/app/ModelTargets/ModelTargets.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1425">
+              <caret line="148" column="35" selection-start-line="148" selection-start-column="35" selection-end-line="148" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Teapot()</find>
+      <find>mispo</find>
+      <find>mteapot</find>
+      <find>SampleApplicationV3DModel</find>
+      <find>imagetargetrenderer</find>
+      <find>loadmodel</find>
+      <find>mLanderModel</find>
+      <find>filename</find>
+      <find>index</find>
+      <find>vertices</find>
+      <find>normals</find>
+      <find>edges</find>
+      <find>configurevideo</find>
+      <find>onsur</find>
+      <find>SampleApplication3DModel</find>
+      <find>mBuildingsModel</find>
+      <find>model</find>
+      <find>mTeapot</find>
+      <find>onsurf</find>
+      <find>config</find>
+      <find>size</find>
+      <find>getfocal</find>
+      <find>getinsta</find>
+      <find>v3d</find>
+      <find>fe</find>
+      <find>get</find>
+      <find>Teapot</find>
+      <find>mispor</find>
+      <find>sett</find>
+      <find>teapot</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/SampleApplication/SampleActivityBase.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/CoreSamples/ui/ActivityList/ActivityLauncher.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/CoreSamples/ui/SampleAppMenu/SampleAppMenuView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/splash_screen.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/CoreSamples/ui/ActivityList/ActivitySplashScreen.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/CoreSamples/app/ModelTargets/ModelTargetRenderer.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/SampleApplication/SampleApplicationSession.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/SampleApplication/SampleAppRenderer.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/CoreSamples/app/ImageTargets/ImageTargets.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/CoreSamples/app/ImageTargets/ImageTargetRenderer.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/SampleApplication/utils/Teapot.java" />
+        <option value="$PROJECT_DIR$/app/src/main/assets/car.obj" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/CoreSamples/app/ModelTargets/ModelTargets.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="36" />
+    <option name="y" value="323" />
+    <option name="width" value="1280" />
+    <option name="height" value="723" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="VuforiaAndroid" type="58d84e3e:PackageViewProjectNode" />
+              <item name="app" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="VuforiaSamples-8-3-8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VuforiaSamples-8-3-8" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="VuforiaSamples-8-3-8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="VuforiaAndroid-8-3-8" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="VuforiaAndroid-8-3-8" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="VuforiaAndroid-8-3-8" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="device.picker.selection" value="Pixel_2_API_29_3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/libs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ede67bd3-c868-4dad-bea9-1a347835ae1c" name="Default Changelist" comment="" />
+      <created>1563981157140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563981157140</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="36" y="323" width="1280" height="723" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" sideWeight="0.5011765" side_tool="true" weight="0.29402262" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49882352" visible="true" weight="0.29402262" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" weight="0.32956383" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49919224" weight="0.3296355" />
+      <window_info anchor="bottom" id="Logcat" order="1" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8529887" weight="0.3290938" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5129241" side_tool="true" visible="true" weight="0.32646593" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.48707592" visible="true" weight="0.32646593" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" />
+      <window_info anchor="right" id="Viewer" order="0" side_tool="true" weight="0.32928804" />
+      <window_info anchor="right" id="Device File Explorer" order="1" side_tool="true" weight="0.32956383" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.32956383" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.29402262" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" weight="0.32956383" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Run" order="0" />
+      <window_info anchor="bottom" id="Logcat" order="1" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8529887" weight="0.3290938" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50080776" side_tool="true" weight="0.3290938" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49919224" weight="0.3290938" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Viewer" order="0" side_tool="true" weight="0.32928804" />
+      <window_info anchor="right" id="Device File Explorer" order="1" side_tool="true" weight="0.32956383" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.32956383" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/CoreSamples/ui/ActivityList/ActivitySplashScreen.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/splash_screen.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/vuforia_splash.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/round_bg.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/reticle.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/CoreSamples/ui/SampleAppMenu/SampleAppMenuView.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/CoreSamples/ui/ActivityList/ActivityLauncher.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/CoreSamples/ui/ActivityList/AboutScreen.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/CoreSamples/ui/SampleAppMenu/SampleAppMenuAnimator.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/CoreSamples/app/ObjectRecognition/ObjectTargets.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/CoreSamples/app/ObjectRecognition/ObjectTargetRenderer.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/CoreSamples/ui/SampleAppMenu/SampleAppMenu.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/ModelTargets/Diffuse_KTM.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/ModelTargets/Vuforia_Motorcycle_Marslander.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/ModelTargets/LanderTrained.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/ModelTargets/Lander360.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/ModelTargets/VuforiaMars_ModelTarget360.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/sample_app_title_bar.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/ModelTargets/BikeTrained.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/Lander.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/camera_overlay_model_targets.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/Lander.v3d" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/Phone.fbx" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/SampleApplication/SampleRendererBase.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/SampleApplication/SampleAppRendererControl.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/SampleApplication/SampleApplicationException.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/SampleApplication/utils/SampleApplication3DModel.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/ImageTargets/Buildings.txt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/SampleApplication/SampleApplicationSession.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/SampleApplication/utils/SampleApplicationV3DModel.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/card_info.png" />
+    <entry file="jar://$PROJECT_DIR$/../../build/java/Vuforia/Vuforia.jar!/com/vuforia/CameraDevice.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="47" column="126" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../build/java/Vuforia/Vuforia.jar!/com/vuforia/State.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="36" column="42" lean-forward="true" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../build/java/Vuforia/Vuforia.jar!/com/vuforia/CameraCalibration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="27" column="41" lean-forward="true" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/icon_camera_normal.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/icon_camera_pressed.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/CoreSamples/app/ImageTargets/ImageTargets.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/CoreSamples/app/ImageTargets/ImageTargetRenderer.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/SampleApplication/utils/Teapot.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/SampleApplication/SampleAppRenderer.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/car.obj" />
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/proguard-rules.pro">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="117" column="93" selection-start-line="117" selection-start-column="93" selection-end-line="117" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/CoreSamples/app/ModelTargets/ModelTargetRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/CoreSamples/app/ModelTargets/ModelTargets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="148" column="35" selection-start-line="148" selection-start-column="35" selection-end-line="148" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/engine/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/DEVELOPMENT_ROOT/Android/vuforia-sdk-android-8-3-8/samples/VuforiaSamples-8-3-8/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="29" column="58" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

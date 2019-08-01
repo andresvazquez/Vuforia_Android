@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkData":{"type":"MAIN","splits":[],"versionCode":830,"versionName":"8.3","enabled":true,"outputFile":"VuforiaAndroid-8-3-8-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.vuforia.engine.CoreSamples","split":"","minSdkVersion":"19"}}]
